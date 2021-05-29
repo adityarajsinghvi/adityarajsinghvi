@@ -30,4 +30,4 @@
 <a href="" title="C"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="25px" height="25px"></a>
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=adityarajsinghvi&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=adityarajsinghvi&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsinghvi&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsinghvi&theme=tokyonight&hide=java,ruby,Objective-c&langs_count=3)
