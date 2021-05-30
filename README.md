@@ -5,7 +5,6 @@
   
   - 🔭 I’m currently pursuing my 3rd year B.Tech from Vellore Institute Of Technology, Chennai, India
   - 💬 Ask me about web and mobile development
-  - 😄 Pronouns: He / Him
   
   #### 📫 How to reach me:
   
