@@ -3,7 +3,7 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently pursuing my 3rd year B.Tech from Vellore Institute Of Technology, Chennai, India
+  - 🔭 I’m currently pursuing my 4th year B.Tech from Vellore Institute Of Technology, Chennai, India
   - 💬 Ask me about web and mobile development
   
   #### 📫 How to reach me:
